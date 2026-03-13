@@ -12,7 +12,4 @@
 
 <br />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ianupk&theme=default" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ianupk&theme=default" />
-
 </div>
